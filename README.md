@@ -1,4 +1,4 @@
-# DublinBikesRouteFinder
+# Dublin Bikes Route Finder
 
 Helps in finding a route between 2 bike stands (Stand1 -> Stand2) using live user location and open API.
 
