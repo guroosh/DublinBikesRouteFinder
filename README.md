@@ -11,7 +11,7 @@ Use case diagram:
 
 UI screenshots:
 
-![Alt text](screenshots/1st.jpg?raw=true "Title")
+![Alt text](screenshots/1st.jpg =100x20)
 
 ![Alt text](screenshots/2nd.jpg?raw=true "Title")
 
