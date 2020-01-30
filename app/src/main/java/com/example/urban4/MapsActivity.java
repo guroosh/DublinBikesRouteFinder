@@ -218,7 +218,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             @Override
             public void run() {
                 try {
-                    result[0] = getRestApi("https://api.jcdecaux.com/vls/v1/stations?contract=dublin&apiKey=9188e6afdd06025497417293fdea92c823034731");
+                    result[0] = getRestApi("https://api.jcdecaux.com/vls/v1/stations?contract=dublin&apiKey=" + API_KEY);
                 } finally {
                     latestBikesData = result[0];
                     array = new ArrayList<>();
