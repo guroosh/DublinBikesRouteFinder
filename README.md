@@ -11,8 +11,7 @@ Use case diagram:
 
 UI screenshots:
 
-<img src="screenshots/1st.jpg" width="250">
-
-<img src="screenshots/2nd.jpg" width="250">
-
-<img src="screenshots/3rd.jpg" width="250">
+&nbsp;
+<img src="screenshots/1st.jpg" width="200">
+<img src="screenshots/2nd.jpg" width="200">
+<img src="screenshots/3rd.jpg" width="200">
